@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cnagt.com/sitemap-index.xml
